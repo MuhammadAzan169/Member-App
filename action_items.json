@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-03-17T23:59:19.123265",
+  "report_type": "action_items",
+  "metadata": {
+    "agent": "Randy Yates",
+    "total_sections_parsed": 25,
+    "transcript_file": "D:\\real-estate-ai-coach\\backend\\recordings\\ZcqEbHgFT9XD0Z7jUkJpNnqB8Oy2\\Mountainland_Realty_Randy_Yates_Listing_Presentation_Role_Play_2026-03-17\\conversation.json"
+  },
+  "total_action_items": 5,
+  "action_items": [
+    {
+      "taskId": "A1",
+      "task": "Address client concerns about commission",
+      "responsiblePerson": "Randy Yates",
+      "deadline": "No due date mentioned",
+      "priority": "high",
+      "status": "pending",
+      "createdAt": "2026-03-17T23:59:19.123265",
+      "updatedAt": "2026-03-17T23:59:19.123265"
+    },
+    {
+      "taskId": "A2",
+      "task": "Develop a revised pricing strategy",
+      "responsiblePerson": "Randy Yates",
+      "deadline": "No due date mentioned",
+      "priority": "high",
+      "status": "pending",
+      "createdAt": "2026-03-17T23:59:19.123265",
+      "updatedAt": "2026-03-17T23:59:19.123265"
+    },
+    {
+      "taskId": "A3",
+      "task": "Follow up with clients to secure commitment",
+      "responsiblePerson": "Randy Yates",
+      "deadline": "No due date mentioned",
+      "priority": "high",
+      "status": "pending",
+      "createdAt": "2026-03-17T23:59:19.123265",
+      "updatedAt": "2026-03-17T23:59:19.123265"
+    },
+    {
+      "taskId": "A4",
+      "task": "Prepare a detailed marketing plan for the listing",
+      "responsiblePerson": "Randy Yates",
+      "deadline": "No due date mentioned",
+      "priority": "medium",
+      "status": "pending",
+      "createdAt": "2026-03-17T23:59:19.123265",
+      "updatedAt": "2026-03-17T23:59:19.123265"
+    },
+    {
+      "taskId": "A5",
+      "task": "Schedule a follow-up meeting with clients",
+      "responsiblePerson": "Randy Yates",
+      "deadline": "No due date mentioned",
+      "priority": "medium",
+      "status": "pending",
+      "createdAt": "2026-03-17T23:59:19.123265",
+      "updatedAt": "2026-03-17T23:59:19.123265"
+    }
+  ]
+}
